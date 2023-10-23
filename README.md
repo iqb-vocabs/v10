@@ -1,40 +1,7 @@
-# v10
-Vokabulare: Bildungsstandards Mathematik Primar 2022
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Deutsch
+Dieses Repository dient der Bereitstellung von Vokabularen für Metadaten in Programmierungen des [IQB](https://www.iqb.hu-berlin.de). Nutzen Sie den Weblink oben rechts auf der GitHub-Startseite dieses Repositories, um zur SkoHub-Darstellung der Vokabulare zu gelangen.
 
-In diesem Repository stellen wir die Metadaten-Vokabulare für „Bildungsstandards für das Fach Mathematik
-Primarbereich".
-
-Dieses Repository enthält die CSV-Dateien für dieses Metadatenvokabular.
-* a1.csv
-* i1.csv
-* p1.csv
-  
-Und auch die entsprechenden generierten Turtle-Dateien:
-* Anforderungsbereiche.ttl
-* Inhaltsbezogene_Kompetenzen.ttl
-* Prozessbezogene_Kompetenzen.ttl
-
-Weitere Details zum Workflow zum Abrufen der generierten Turtle-Datei finden Sie unter https://github.com/iqb-vocabs/csv2ttl.
-
-Unter dem in der Beschreibung bereitgestellten Link https://skohub.io/iqb-vocabs/v10/heads/master/index.de.html finden Sie die eindeutige w3id, die jedem Element dieses Vokabulars zugeordnet ist.
-
-
-## English
-In this repository we provide the metadata vocabularies for "Bildungsstandards für das Fach Mathematik
-Primarbereich". 
-
-This repository contains the csv files for this metadata vocabulary.
-* a1.csv
-* i1.csv
-* p1.csv
-  
-And also the corresponding generated turtle files:
-* Anforderungsbereiche.ttl
-* Inhaltsbezogene_Kompetenzen.ttl
-* Prozessbezogene_Kompetenzen.ttl 
-
-More details on the workflow to get the generated turtle file can be found at https://github.com/iqb-vocabs/csv2ttl.
-
-In the link provided in the description https://skohub.io/iqb-vocabs/v10/heads/master/index.de.html, you can find the unique w3id associated with each element of that vocabulary.
+* [Listen der Vokabular-Werte als Tabelle](csv)
+* [Informationen zum Metadaten-Management des IQB](https://iqb-vocabs.github.io)
+* [Kontakt IQB](mailto:iqb-tbadev@hu-berlin.de)

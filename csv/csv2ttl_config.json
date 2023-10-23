@@ -19,6 +19,8 @@
             "value": "Anforderungsbereiche"
           }
         ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
         "description": [
           {
             "lang": "de",
@@ -34,6 +36,8 @@
             "value": "Prozessbezogene Kompetenzen"
           }
         ],
+        "filenameSource": "p1_Prozessbezogene_Kompetenzen.csv",
+        "filenameTarget": "p1_Prozessbezogene_Kompetenzen.ttl",
         "description": [
           {
             "lang": "de",
@@ -49,6 +53,8 @@
             "value": "Inhaltsbezogene Kompetenzen"
           }
         ],
+        "filenameSource": "i1_Inhaltsbezogene_Kompetenzen.csv",
+        "filenameTarget": "i1_Inhaltsbezogene_Kompetenzen.ttl",
         "description": [
           {
             "lang": "de",

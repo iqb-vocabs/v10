@@ -60,7 +60,7 @@ n1:g5g
 	skos:inScheme n0:;
 	skos:notation "1.2.5";
 	skos:broader n1:z2d;
-	skos:prefLabel "beschreiben, vergleichen und bewerten verschiedene Rechenwege; finden, erklären und berichtigen Rechenfehler,"@de.
+	skos:prefLabel "beschreiben, vergleichen und bewerten verschiedene Rechenwege^ finden, erklären und berichtigen Rechenfehler,"@de.
 n1:a5v
 	 a skos:Concept;
 	skos:inScheme n0:;
