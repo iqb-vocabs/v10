@@ -1,6 +1,6 @@
 {
   "name": "v10",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Bildungsstandards Mathematik Primar 2022",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/v10#readme",
   "dependencies": {
-    "@iqb/csv2ttl": "^0.7.3"
+    "@iqb/csv2ttl": "^0.7.4"
   }
 }
