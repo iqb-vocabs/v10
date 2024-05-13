@@ -179,6 +179,12 @@ n1:p5z
 		n1:h9v,
 		n1:h4v,
 		n1:f5a.
+n1:g2p
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "7";
+	skos:topConceptOf n0:;
+	skos:prefLabel "extra"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -190,4 +196,5 @@ n0:
 		n1:t6d,
 		n1:q7p,
 		n1:v5v,
-		n1:p5z.
+		n1:p5z,
+		n1:g2p.
