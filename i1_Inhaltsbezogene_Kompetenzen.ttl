@@ -232,7 +232,7 @@ n1:y5s
 	skos:inScheme n0:;
 	skos:notation "3.1.1";
 	skos:broader n1:c7b;
-	skos:prefLabel "verstehen und nutzen Strukturen in arithmetischen und geometrischen Darstellungen (z. B. in Zahldarstellungen, Anschauungsmitteln) verstehen und nutzen"@de.
+	skos:prefLabel "verstehen und nutzen Strukturen in arithmetischen und geometrischen Darstellungen (z. B. in Zahldarstellungen, Anschauungsmitteln),"@de.
 n1:u6f
 	 a skos:Concept;
 	skos:inScheme n0:;
